@@ -1,7 +1,30 @@
-## About me
-*Hello, I'm **Eduardo** I like **programming** and I love talking about **programming***
+<h1 align="center">Hi 👋, I'm Eduardo Oliveira</h1>
 
-## Knowledge
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 I’m currently learning API Development and other programming languages.
+
+- 📫 How to reach me **duduoli11@hotmail.com**
+
+- ⚡ Fun fact :- I like to program listening to calm music.
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduardo-de-oliveira-67273823b/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Eduardo" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/eduolipp/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._Oliveira.._" height="30" width="40" /></a>
+</p>
+
+<br>
+
 <div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -36,5 +59,13 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
-## Contact me
-<a href="https://www.linkedin.com/in/eduardo-de-oliveira-67273823b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br>
+
+<h3>Statistical Data :-</h3>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zerefstbl&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Siiir" /></p>
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
